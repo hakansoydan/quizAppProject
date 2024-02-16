@@ -10,4 +10,4 @@ Kaynak olarak kullanıdığım Projenin Linki:
 [Youtube](https://www.youtube.com/watch?v=PBcqGxrr9g8)
 
 Projeyi buradan görüntüleyebilirsiniz: 
-[Quiz App](https://www.youtube.com/watch?v=PBcqGxrr9g8)
+[Quiz App](https://quizappprojectt.netlify.app/)
